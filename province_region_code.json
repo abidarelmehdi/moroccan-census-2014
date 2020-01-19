@@ -1,0 +1,302 @@
+{
+	"066": {
+		"code_region": "12",
+		"libelle": "Province: Aousserd"
+	},
+	"051": {
+		"code_region": "01",
+		"libelle": "Province: Al Hoceima"
+	},
+	"151": {
+		"code_region": "01",
+		"libelle": "Province: Chefchaouen"
+	},
+	"227": {
+		"code_region": "01",
+		"libelle": "Province: Fahs-Anjra        "
+	},
+	"331": {
+		"code_region": "01",
+		"libelle": "Province: Larache"
+	},
+	"405": {
+		"code_region": "01",
+		"libelle": "Province: Ouezzane"
+	},
+	"511": {
+		"code_region": "01",
+		"libelle": "Préfecture: Tanger-Assilah"
+	},
+	"571": {
+		"code_region": "01",
+		"libelle": "Province: Tétouan"
+	},
+	"573": {
+		"code_region": "01",
+		"libelle": "Préfecture: M'Diq-Fnideq"
+	},
+	"113": {
+		"code_region": "02",
+		"libelle": "Province: Berkane"
+	},
+	"167": {
+		"code_region": "02",
+		"libelle": "Province: Driouch"
+	},
+	"251": {
+		"code_region": "02",
+		"libelle": "Province: Figuig"
+	},
+	"265": {
+		"code_region": "02",
+		"libelle": "Province: Guercif"
+	},
+	"275": {
+		"code_region": "02",
+		"libelle": "Province: Jerada"
+	},
+	"381": {
+		"code_region": "02",
+		"libelle": "Province: Nador"
+	},
+	"411": {
+		"code_region": "02",
+		"libelle": "Préfecture: Oujda-Angad"
+	},
+	"533": {
+		"code_region": "02",
+		"libelle": "Province: Taourirt"
+	},
+	"061": {
+		"code_region": "03",
+		"libelle": "Préfecture: Meknès"
+	},
+	"131": {
+		"code_region": "03",
+		"libelle": "Province: Boulemane"
+	},
+	"171": {
+		"code_region": "03",
+		"libelle": "Province: El  Hajeb"
+	},
+	"231": {
+		"code_region": "03",
+		"libelle": "Préfecture: Fès"
+	},
+	"271": {
+		"code_region": "03",
+		"libelle": "Province: Ifrane"
+	},
+	"451": {
+		"code_region": "03",
+		"libelle": "Province: Sefrou"
+	},
+	"531": {
+		"code_region": "03",
+		"libelle": "Province: Taounate"
+	},
+	"561": {
+		"code_region": "03",
+		"libelle": "Province: Taza"
+	},
+	"591": {
+		"code_region": "03",
+		"libelle": "Province: Moulay Yacoub"
+	},
+	"281": {
+		"code_region": "04",
+		"libelle": "Province: Kénitra"
+	},
+	"291": {
+		"code_region": "04",
+		"libelle": "Province: Khémisset"
+	},
+	"421": {
+		"code_region": "04",
+		"libelle": "Préfecture: Rabat"
+	},
+	"441": {
+		"code_region": "04",
+		"libelle": "Préfecture: Salé"
+	},
+	"481": {
+		"code_region": "04",
+		"libelle": "Province: Sidi Kacem"
+	},
+	"491": {
+		"code_region": "04",
+		"libelle": "Province: Sidi Slimane"
+	},
+	"501": {
+		"code_region": "04",
+		"libelle": "Préfecture: Skhirate- Témara"
+	},
+	"081": {
+		"code_region": "05",
+		"libelle": "Province: Azilal"
+	},
+	"091": {
+		"code_region": "05",
+		"libelle": "Province: Béni Mellal"
+	},
+	"255": {
+		"code_region": "05",
+		"libelle": "Province: Fquih Ben Salah"
+	},
+	"301": {
+		"code_region": "05",
+		"libelle": "Province: Khénifra"
+	},
+	"311": {
+		"code_region": "05",
+		"libelle": "Province: Khouribga"
+	},
+	"111": {
+		"code_region": "06",
+		"libelle": "Province: Benslimane"
+	},
+	"117": {
+		"code_region": "06",
+		"libelle": "Province: Berrechid"
+	},
+	"141": {
+		"code_region": "06",
+		"libelle": "Préfecture: Casablanca"
+	},
+	"181": {
+		"code_region": "06",
+		"libelle": "Province: El Jadida"
+	},
+	"355": {
+		"code_region": "06",
+		"libelle": "Province: Médiouna"
+	},
+	"371": {
+		"code_region": "06",
+		"libelle": "Préfecture: Mohammadia"
+	},
+	"385": {
+		"code_region": "06",
+		"libelle": "Province: Nouaceur"
+	},
+	"461": {
+		"code_region": "06",
+		"libelle": "Province: Settat"
+	},
+	"467": {
+		"code_region": "06",
+		"libelle": "Province: Sidi Bennour"
+	},
+	"041": {
+		"code_region": "07",
+		"libelle": "Province: Al  Haouz"
+	},
+	"161": {
+		"code_region": "07",
+		"libelle": "Province: Chichaoua"
+	},
+	"191": {
+		"code_region": "07",
+		"libelle": "Province: El Kelâa des  Sraghna"
+	},
+	"211": {
+		"code_region": "07",
+		"libelle": "Province: Essaouira"
+	},
+	"351": {
+		"code_region": "07",
+		"libelle": "Préfecture: Marrakech"
+	},
+	"427": {
+		"code_region": "07",
+		"libelle": "Province: Rehamna"
+	},
+	"431": {
+		"code_region": "07",
+		"libelle": "Province: Safi"
+	},
+	"585": {
+		"code_region": "07",
+		"libelle": "Province: Youssoufia"
+	},
+	"201": {
+		"code_region": "08",
+		"libelle": "Province: Errachidia"
+	},
+	"363": {
+		"code_region": "08",
+		"libelle": "Province: Midelt"
+	},
+	"401": {
+		"code_region": "08",
+		"libelle": "Province: Ouarzazate"
+	},
+	"577": {
+		"code_region": "08",
+		"libelle": "Province: Tinghir"
+	},
+	"587": {
+		"code_region": "08",
+		"libelle": "Province: Zagora"
+	},
+	"001": {
+		"code_region": "09",
+		"libelle": "Préfecture: Agadir-Ida -Ou-Tanane"
+	},
+	"163": {
+		"code_region": "09",
+		"libelle": "Province: Chtouka- Ait Baha"
+	},
+	"273": {
+		"code_region": "09",
+		"libelle": "Préfecture: Inezgane- Ait Melloul"
+	},
+	"541": {
+		"code_region": "09",
+		"libelle": "Province: Taroudannt"
+	},
+	"551": {
+		"code_region": "09",
+		"libelle": "Province: Tata"
+	},
+	"581": {
+		"code_region": "09",
+		"libelle": "Province: Tiznit"
+	},
+	"071": {
+		"code_region": "10",
+		"libelle": "Province: Assa-Zag"
+	},
+	"261": {
+		"code_region": "10",
+		"libelle": "Province: Guelmim"
+	},
+	"473": {
+		"code_region": "10",
+		"libelle": "Province: Sidi Ifni"
+	},
+	"521": {
+		"code_region": "10",
+		"libelle": "Province: Tan-Tan"
+	},
+	"121": {
+		"code_region": "11",
+		"libelle": "Province: Boujdour"
+	},
+	"221": {
+		"code_region": "11",
+		"libelle": "Province: Es-Semara"
+	},
+	"321": {
+		"code_region": "11",
+		"libelle": "Province: Laâyoune"
+	},
+	"537": {
+		"code_region": "11",
+		"libelle": "Province: Tarfaya"
+	},
+	"391": {
+		"code_region": "12",
+		"libelle": "Province: Oued Ed-Dahab"
+	}
+}
