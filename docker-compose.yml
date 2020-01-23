@@ -1,0 +1,20 @@
+version: '3'
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    command: --max_allowed_packet=1G
+    environment:
+      MYSQL_DATABASE: 'ehtp_rgph'
+      MYSQL_USER: 'ehtp'
+      MYSQL_PASSWORD: 'ehtp'
+      MYSQL_ROOT_PASSWORD: 'ehtp'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - mysql:/var/lib/mysql
+
+volumes:
+  mysql:
