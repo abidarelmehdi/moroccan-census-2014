@@ -1,0 +1,6 @@
+*.sql linguist-detectable=false
+*.yml linguist-detectable=false
+*.pdf linguist-detectable=false
+*.xls linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.json linguist-detectable=false
